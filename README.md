@@ -4,22 +4,22 @@
 </a>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+DALTON+CHIVAMBO;I'M+20+YEARS+OLD;I'M+FROM+MOZAMBIQUE,+MAPUTO;I+STUDY+COMPUTER+SCIENCE+AND+ENGINEERING;AT+EDUARDO+MONDLANE+UNIVERSITY;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+DALTON+CHIVAMBO;I'M+20+YEARS+OLD;I'M+FROM+MOZAMBIQUE,+MAPUTO;I+STUDY+COMPUTER+SCIENCE+AND+ENGINEERING;AT+EDUARDO+MONDLANE+UNIVERSITY;Be+Welcome!+:%29)](href="https://github.com/DaltonChivambo")
 
 <div align="center">
-  <a href="https://github.com/DaltonChivambo?tab=repositories">
+  <a href="https://github.com/DaltonChivambo">
      <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DaltonChivambo&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Dalton Chivambo github stats" /> 
   </a>
-  <a href="https://github.com/DaltonChivambo?tab=repositories">
+  <a href="https://github.com/DaltonChivambo">
     <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonChivambo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
   </a>
 </div>
 
-[![Contribution](https://activity-graph.herokuapp.com/graph?username=DaltonChivambo&theme=gotham&hide_border=true&area=true)](https://github.com/DaltonChivambo?tab=repositories)
+[![Contribution](https://activity-graph.herokuapp.com/graph?username=DaltonChivambo&theme=gotham&hide_border=true&area=true)](https://github.com/DaltonChivambo)
 
 
 <p align="center">
-  <a href="https://github.com/DaltonChivambo?tab=repositories">
+  <a href="https://github.com/DaltonChivambo">
     <img src="https://github-profile-trophy.vercel.app/?username=DaltonChivambo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   </a>
 </p>
