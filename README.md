@@ -1,5 +1,7 @@
 
-
+<a href="https://shields.io/">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+</a>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+DALTON+CHIVAMBO;I'M+20+YEARS+OLD;I'M+FROM+MOZAMBIQUE,+MAPUTO;I+STUDY+COMPUTER+SCIENCE+AND+ENGINEERING;AT+EDUARDO+MONDLANE+UNIVERSITY;Be+Welcome!+:%29)](https://git.io/typing-svg)
