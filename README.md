@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/DaltonChivambo" >
+  <a href="" >
     <img src="https://github-profile-trophy.vercel.app/?username=DaltonChivambo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   </a>
 </p>
