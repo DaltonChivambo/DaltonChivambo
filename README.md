@@ -63,4 +63,5 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/DaltonChivambo)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/DaltonChivambo)
 
-<img width="41%" height="30%" src="https://github.com/DaltonChivambo/DaltonChivambo/blob/main/contact_me.jpeg" />
+<img width="41%" height="30%" src="https://github.com/DaltonChivambo/DaltonChivambo/blob/main/
+contact_with_me.jpeg" />
