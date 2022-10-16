@@ -73,20 +73,4 @@
 
 
 
-<br></br>
-## 📁 Repositories
 
-<br>
-    <a href="https://github.com/DaltonChivambo/SGVF">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DaltonChivambo&repo=SGVF&hide_border=true&bg_color=058182,a4c639,a4c639" />
-    </a>
-    <a href="https://github.com/DaltonChivambo/Bank_System">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DaltonChivambo&repo=Bank_System&hide_border=true&bg_color=000000,a4c639,a4c639" />
-    </a>
-<br><br>
-    <a href="https://github.com/DaltonChivambo/Dark-Theme-Login">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DaltonChivambo&repo=Dark-Theme-Login&hide_border=true&bg_color=000000,a4c639,a4c639" />
-    </a>
-    <a href="https://github.com/DaltonChivambo/Scripts-ShellScript">
-        <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=DaltonChivambo&repo=Scripts-ShellScript&hide_border=true&bg_color=000000,a4c639,a4c639" />
-    </a>
