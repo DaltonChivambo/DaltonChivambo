@@ -20,9 +20,10 @@
 
 <p align="center">
   <a href="https://github.com/DaltonChivambo">
-    <img src="https://github-profile-trophy.vercel.app/?username=DaltonChivambo&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+    <img src= https://github-profile-trophy.vercel.app/?username=DaltonChivambo&theme=dark_lover />
   </a>
 </p>
+
 
  
  <br> </br>
