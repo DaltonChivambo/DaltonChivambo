@@ -15,7 +15,7 @@
   </a>
 </div>
 
-[![Contribution](https://activity-graph.herokuapp.com/graph?username=DaltonChivambo&theme=gotham&hide_border=true&area=true)](https://github.com/DaltonChivambo)
+
 
 
 <p align="center">
