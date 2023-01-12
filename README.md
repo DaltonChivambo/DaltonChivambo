@@ -1,26 +1,32 @@
 
-<a href="https://github.com/DaltonChivambo">
+<!-- Top Animation Bar -->
+<a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 </a>
 
+<!--Top Text Animation -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=35&center=true&vCenter=true&width=1000&lines=👋+HELLO,+I'M++DALTON+CHIVAMBO;I'M+FROM+MOZAMBIQUE,+MAPUTO;I+STUDY+COMPUTER+ENGINEERING;AT+EDUARDO+MONDLANE+UNIVERSITY;Be+Welcome!+:%29)](#)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=35&center=true&vCenter=true&width=1000&lines=👋+HELLO,+I'M++DALTON+CHIVAMBO;I'M+FROM+MOZAMBIQUE,+MAPUTO;I+STUDY+COMPUTER+ENGINEERING;AT+EDUARDO+MONDLANE+UNIVERSITY;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+<!--Image Profile and Git Hub General Stat's-->
 <div align="center">
-  <a href="https://github.com/DaltonChivambo">
-     <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=DaltonChivambo&theme=dark&hide_border=false" alt="Dalton Chivambo github stats" /> 
+  <a href="#">
+     <img width="50%" src="https://github-stats-alpha.vercel.app/api?username=DaltonChivambo" alt="Dalton Chivambo github stats" /> 
+  </a>
+   <a href="#">
+     <img width="42%" src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=DaltonChivambo&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Programming Languages Dalton Chivambo github stats" alt="Programming Languages" /> 
   </a>
 </div>
 <br> </br>
 
 
-
-<p align="center">
-  <a href="https://github.com/DaltonChivambo">
-    <img src= https://github-profile-trophy.vercel.app/?username=DaltonChivambo&theme=dark_lover />
-  </a>
-</p>
-
+<!-- Grafh and Git Hub General Stat's-->
+<div align=center>
+  <a href="#">
+  <img width=94% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaltonChivambo&theme=github" alt="Grafh Contributions"/>
+</a>
+</div>
+<br> </br>
 
  
  <br> </br>
