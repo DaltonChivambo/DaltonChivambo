@@ -5,7 +5,7 @@
 </a>
 
 <!--Top Text Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=35&center=true&vCenter=true&width=1000&lines=👋+HELLO,+I'M++DALTON+CHIVAMBO;I'M+FROM+MOZAMBIQUE,+MAPUTO;I+STUDY+COMPUTER+ENGINEERING;AT+EDUARDO+MONDLANE+UNIVERSITY;Be+Welcome!+:%29)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFBF&size=35&center=true&vCenter=true&width=1000&lines=👋+HELLO,+I'M++DALTON+CHIVAMBO;I'M+FROM+MOZAMBIQUE,+MAPUTO;Be+Welcome!+:%29)](#)
 
 
 <!--Image Profile and Git Hub General Stat's-->
