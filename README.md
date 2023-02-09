@@ -11,10 +11,10 @@
 <!--Image Profile and Git Hub General Stat's-->
 <div align="center">
   <a href="#">
-    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=DaltonChivambo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Dalton Chivambo github stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=DaltonChivambo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Dalton Chivambo github stats" />
   </a>
    <a href="#">
-       <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonChivambo&layout=compact&langs_count=7&theme=dark" alt="Programming Languages Dalton Chivambo github stats" />
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonChivambo&layout=compact&langs_count=7&theme=dark" alt="Programming Languages Dalton Chivambo github stats" />
   </a>
 </div>
  
