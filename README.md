@@ -11,23 +11,12 @@
 <!--Image Profile and Git Hub General Stat's-->
 <div align="center">
   <a href="#">
-     <img width="55%" src="https://github-stats-alpha.vercel.app/api?username=DaltonChivambo" alt="Dalton Chivambo github stats" /> 
+    <img height="230em" src="https://github-readme-stats.vercel.app/api?username=DaltonChivambo&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Dalton Chivambo github stats" />
   </a>
    <a href="#">
-     <img width="40%" src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=DaltonChivambo&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Programming Languages Dalton Chivambo github stats" alt="Programming Languages" /> 
+       <img height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonChivambo&layout=compact&langs_count=7&theme=dark" alt="Programming Languages Dalton Chivambo github stats" />
   </a>
 </div>
-<br> </br>
-
-
-<!-- Grafh and Git Hub General Stat's-->
-<div align=center>
-  <a href="#">
-  <img width=94% src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaltonChivambo&theme=github" alt="Grafh Contributions"/>
-</a>
-</div>
-<br> </br>
-
  
  <br> </br>
  ### Skills:
