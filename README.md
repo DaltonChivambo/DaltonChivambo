@@ -38,6 +38,7 @@
 [![Pycharm Idea](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)](https://www.jetbrains.com/pycharm/)
 [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Git Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaltonChivambo)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e65417f2-3626-463f-817d-c026b820d9a0/deploy-status)](https://app.netlify.com/sites/daltonchivambo/deploys)
 
 ### Operational Systems and Others:
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
