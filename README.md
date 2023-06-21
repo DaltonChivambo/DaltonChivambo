@@ -17,7 +17,9 @@
        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonChivambo&layout=compact&langs_count=7&theme=dark" alt="Programming Languages Dalton Chivambo github stats" />
   </a>
 </div>
- 
+
+<br> </br>
+[![committers.top badge](https://user-badge.committers.top/mozambique/DaltonChivambo.svg)](https://user-badge.committers.top/mozambique/DaltonChivambo)
  <br> </br>
  ### Skills(Languages):
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
