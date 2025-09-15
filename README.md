@@ -20,7 +20,8 @@
 [![committers.top badge](https://user-badge.committers.top/mozambique/DaltonChivambo.svg)](https://user-badge.committers.top/mozambique/DaltonChivambo)
  <br> </br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=shield)](https://chivambo.vercel.com)
+## 🔗 Portfolio
+[🛡️ Visit my Portfolio](https://chivambo.vercel.com)
 
  ### Skills(Languages):
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/en/)
