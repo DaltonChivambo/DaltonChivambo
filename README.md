@@ -21,7 +21,7 @@
  <br> </br>
 
 ## 🔗 Portfolio
-[🛡️ Visit my Portfolio](https://chivambo.vercel.com)
+[🛡️ chivambo.vercel.com](https://chivambo.vercel.com) – Explore my XP, Projects, software solutions, more...
  <br> </br>
 
 
