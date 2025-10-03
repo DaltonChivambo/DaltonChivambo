@@ -9,13 +9,6 @@
 
 
 <!--Image Profile and Git Hub General Stat's-->
-<div align="">
- 
-   <a href="#">
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaltonChivambo&layout=compact&langs_count=7&theme=dark" alt="Programming Languages Dalton Chivambo github stats" />
-  </a>
-</div>
-
 ![Repo Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaltonChivambo&theme=radical)
 
 <br> </br>
