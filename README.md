@@ -33,7 +33,7 @@
 
 ### 🧑‍💻 &nbsp;About Me
 
-I hold a **BEng in Computer Engineering** from **Eduardo Mondlane University**, with a specialization in Software Engineering and Machine Learning. Since 2024, I've been working as a freelance IT consultant at **Interbantu**, delivering solutions across web, mobile, and desktop — driven by a passion for **open-source AI** that creates real social impact.
+I hold a **BEng in Computer Engineering** from **Eduardo Mondlane University**, Over the years, I have developed strong practical expertise in **Software Engineering and Machine Learning**. Since 2024, I've been working as a freelance IT consultant at **Interbantu**, delivering solutions across web and mobile — driven by a passion for **open-source AI** that creates real social impact.
 
 </td>
 </tr>
