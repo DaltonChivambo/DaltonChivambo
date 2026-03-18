@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6600&size=32&center=true&vCenter=true&width=600&duration=4000&pause=1000&lines=Hello,+I'm+Dalton+Chivambo;Software+%26+ML+Engineer;Building+Solutions+for+Real+Impact)](#)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF6600&size=32&center=true&vCenter=true&width=600&duration=4000&pause=1000&lines=Hello,+I'm+Dalton+Chivambo;Software+%26+ML+Engineer)](#)
 
 **IT Consultant @ [Interbantu](https://blog.chivambo.interbantu.com/)**
 
